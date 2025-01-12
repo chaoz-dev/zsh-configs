@@ -72,7 +72,6 @@ plugins=(
  brew
  fzf
  git
- ripgrep
  tmux
 )
 
